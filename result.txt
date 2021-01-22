@@ -1,0 +1,57 @@
+[!]IP地址:None 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:None 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:None 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:法国 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+[!]IP地址:局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:法国 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+[!]IP地址:局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:法国 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+[!]IP地址:局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:92.168.211.2-法国 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:92.168.211.2-法国 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:92.168.211.2-法国 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	[!]IP地址:92.168.211.2-法国 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+[!]IP地址:92.168.211.2-法国 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	匹配规则: xwork.MethodAccessor.denyMethodExecution|_memberAccess.*ServletActionContextredirect:.*context.get||xwork2.dispatcher.HttpServletRequest|@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS	
+[!]IP地址:92.168.211.2-法国 	漏洞类型: struts2vuln	漏洞细节: struct2	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: struts2vuln	漏洞细节: struct2	
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: XSS	漏洞细节: XSS	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: SQL Injection	漏洞细节: SQL注入	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: sen	漏洞细节: sen	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: dirtraversal	漏洞细节: 路径穿越	
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: XSS	漏洞细节: XSS	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: SQL Injection	漏洞细节: SQL注入	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: sen	漏洞细节: sen	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: dirtraversal	漏洞细节: 路径穿越	
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: XSS	漏洞细节: XSS	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: SQL Injection	漏洞细节: SQL注入	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: sen	漏洞细节: sen	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: dirtraversal	漏洞细节: 路径穿越	
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: XSS	漏洞细节: XSS	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: SQL Injection	漏洞细节: SQL注入	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: sen	漏洞细节: sen	
+
+[!]IP地址:192.168.211.2-局域网 	漏洞类型: dirtraversal	漏洞细节: 路径穿越	
+[*]IP地址:192.168.211.2-局域网 	[!]漏洞类型: XSS	[+]漏洞细节: XSS	
+
+[*]IP地址:192.168.211.2-局域网 	[!]漏洞类型: SQL Injection	[+]漏洞细节: SQL注入	
+
+[*]IP地址:192.168.211.2-局域网 	[!]漏洞类型: sen	[+]漏洞细节: sen	
+
+[*]IP地址:192.168.211.2-局域网 	[!]漏洞类型: dirtraversal	[+]漏洞细节: 路径穿越	
+[*]IP地址:192.168.211.2-局域网 	[!]漏洞类型: XSS	[+]漏洞细节: XSS	
+
+[*]IP地址:192.168.211.2-局域网 	[!]漏洞类型: SQL Injection	[+]漏洞细节: SQL注入	
+
+[*]IP地址:192.168.211.2-局域网 	[!]漏洞类型: sen	[+]漏洞细节: sen	
+
+[*]IP地址:192.168.211.2-局域网 	[!]漏洞类型: dirtraversal	[+]漏洞细节: 路径穿越	
