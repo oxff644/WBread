@@ -26,4 +26,4 @@ python3.8 main.py
 
 ### 运行效果
 
-![](https://raw.githubusercontent.com/oxff644/WBread/master/20210122180938.png)
+![](https://raw.githubusercontent.com/oxff644/little-bread/master/20210122182026.png)
