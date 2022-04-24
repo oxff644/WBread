@@ -5,6 +5,8 @@ Wbread是一个简单的日志分析工具，设计初衷是为了方便安全�
 * 方便、快速、一键运行
 * 界面整洁
 * 精准度高
+
+
 ## 环境准备
 
 1. python3.8
@@ -27,3 +29,7 @@ python3.8 main.py
 ### 运行效果
 
 ![](https://raw.githubusercontent.com/oxff644/little-bread/master/20210122182026.png)
+
+
+
+更多信息可参考：https://mp.weixin.qq.com/s/l4NKlRrqEzqWz6MAfZTxkA
